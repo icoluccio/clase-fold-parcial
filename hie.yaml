@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "clase-lambda:lib"
+
+    - path: "./test"
+      component: "clase-lambda:test:clase-lambda-test"
